@@ -1,14 +1,14 @@
 # proffy-nlw
-implementação da aplicação proffy desenvolvida durante o Next Level Week da rocketseat.🚀
+implementação da aplicação proffy desenvolvida durante o Next Level Week da rocketseat 🚀 !!!
 A proposta do projeto é uma aplicação que possa conectar de maneira simples alunos e professores.
 
 
-<div background="#a8a8b3" padding="20px">
-  <img src="/web/src/assets/images/logo.svg"/>
+<div padding="20px">
+ ![#a8a8b3] <img src="/web/src/assets/images/logo.svg"/>
 <div>
   
   
-# :computer: Technologies
+# :computer: Tecnologias
 
 O projeto foi contruído usando as seguintes tecnologias:
 
@@ -22,16 +22,16 @@ O projeto foi contruído usando as seguintes tecnologias:
 
 
 
-# :construction_worker: How to run
+# :como executar:
 
-### :computer: Downloading project 
+### :computer: Clonando o projeto:
 
 ```bash
 # Clone repository into your machine
 $ git clone https://github.com/gabrielpulga/nlw2-proffy.git
 ```
 
-#### Executando a API
+#### Executando a API:
 
 ```bash
 # entre na pasta server
