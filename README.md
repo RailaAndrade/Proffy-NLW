@@ -3,8 +3,8 @@ implementação da aplicação proffy desenvolvida durante o Next Level Week da 
 A proposta do projeto é uma aplicação que possa conectar de maneira simples alunos e professores.
 
 
-<div padding="20px">
- ![#a8a8b3] <img src="/web/src/assets/images/logo.svg"/>
+<div background-color:"#a8a8b3" padding="20px">
+ <img src="/web/src/assets/images/logo.svg"/>
 <div>
   
   
