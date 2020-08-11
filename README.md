@@ -20,7 +20,7 @@ O projeto foi contruído usando as seguintes tecnologias:
 
 
 
-# :como executar:
+# como executar:
 
 ### :computer: Clonando o projeto:
 
