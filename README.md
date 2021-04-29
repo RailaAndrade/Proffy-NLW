@@ -26,7 +26,6 @@ O projeto foi contruído usando as seguintes tecnologias:
 
 ```bash
 # Clone repository into your machine
-$ git clone https://github.com/gabrielpulga/nlw2-proffy.git
 ```
 
 #### Executando a API:
